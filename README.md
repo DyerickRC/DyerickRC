@@ -1,8 +1,10 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0221,100:7c3aed&text=DY%C3%89RICK%20REIS&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Desenvolvedor%20de%20Software&descAlignY=62&descSize=20" width="100%" alt="Dyérick Reis" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07111F,35:123C45,70:167D75,100:C9A66B&text=DY%C3%89RICK%20REIS&fontColor=F8F0DF&fontSize=58&fontAlign=50&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descSize=17&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="DYÉRICK REIS" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript;TypeScript+%7C+React;Node.js+%7C+Java+%7C+PHP;MySQL+%7C+Git+%7C+Docker;Front-end+%7C+Explorando+o+Back-end;Construindo+solu%C3%A7%C3%B5es+para+a+web" alt="Minhas tecnologias e objetivos" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=65D6C4&center=true&vCenter=true&width=800&height=60&lines=%3E+Initializing+Dy%C3%A9rickOS...;%3E+HTML+%7C+CSS+%7C+JavaScript;%3E+TypeScript+%7C+React;%3E+Node.js+%7C+Java+%7C+PHP;%3E+Building+modern+web+experiences" alt="Technologies and development goals" />
 
 </div>
 
@@ -105,4 +107,8 @@ STATUS: Never stop learning 🚀
   <a href="mailto:dyerickpessoal@gmail.com"><img src="https://img.shields.io/badge/E--mail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7c3aed,100:0d0221&section=footer" width="100%" alt="" />
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:C9A66B,35:167D75,70:123C45,100:07111F&section=footer" width="100%" alt="" />
+
+<br/>
