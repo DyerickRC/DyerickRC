@@ -77,12 +77,22 @@ const dyerick = {
 ```bash
 > Loading objectives...
 
-JavaScript / React   [██████████░░░░░░░░░░] 50%
-Back-end com PHP     [██████████████░░░░░░] 70%
-Java                 [████████░░░░░░░░░░░░] 40%
-Criando projetos     [████████████████░░░░] 80%
+[██████████] React & Front-end
 
-STATUS: Never stop learning 🚀
+[█████████░] JavaScript
+
+[████████░░] Engenharia de Software
+
+[████████░░] Desenvolvimento Backend
+
+[███████░░░] Inteligência Artificial
+
+[███████░░░] Python
+
+[██████░░░░] UI/UX
+
+
+STATUS: Learn → Create → Improve 🚀
 ```
 
 <br>
